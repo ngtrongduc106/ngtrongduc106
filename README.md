@@ -24,6 +24,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="My SQL logo" title="My SQL" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777B4" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
