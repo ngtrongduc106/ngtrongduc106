@@ -22,6 +22,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/AngularJs-282C34?logo=angularjs&logoColor=E23237" alt="AngularJs logo" title="AngularJs" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777B4" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
