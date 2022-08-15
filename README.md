@@ -18,6 +18,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/AngularJs-282C34?logo=angularjs&logoColor=E23237" alt="AngularJs logo" title="AngularJs" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777B4" alt="PHP logo" title="PHP" height="25" /></span>
