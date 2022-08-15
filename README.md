@@ -6,7 +6,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=3384FF" alt="Github logo" title="Github" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Github-EDE9DD?logo=github&logoColor=3384FF" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C Programming-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
 &nbsp;
