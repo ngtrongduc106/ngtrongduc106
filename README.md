@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+
 <a href="#" target="_blank">
   <img src="svg/trongduc.svg" width="1200"/>
 </a>
