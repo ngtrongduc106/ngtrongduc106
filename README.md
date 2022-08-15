@@ -8,27 +8,27 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Github-444242?logo=github&logoColor=3384FF" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C Programming-EDE9DD?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C Programming-444242?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-EDE9DD?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-444242?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-EDE9DD?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-444242?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-EDE9DD?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-444242?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-EDE9DD?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-444242?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/jQuery-EDE9DD?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
+<span><img src="https://img.shields.io/badge/jQuery-444242?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/AngularJs-EDE9DD?logo=angularjs&logoColor=E23237" alt="AngularJs logo" title="AngularJs" height="25" /></span>
+<span><img src="https://img.shields.io/badge/AngularJs-444242?logo=angularjs&logoColor=E23237" alt="AngularJs logo" title="AngularJs" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft SQL Server-EDE9DD?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-444242?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-EDE9DD?logo=mysql&logoColor=4479A1" alt="My SQL logo" title="My SQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-444242?logo=mysql&logoColor=4479A1" alt="My SQL logo" title="My SQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PHP-EDE9DD?logo=php&logoColor=777B4" alt="PHP logo" title="PHP" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PHP-444242?logo=php&logoColor=777B4" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Laravel-EDE9DD?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Laravel-444242?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
