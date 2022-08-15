@@ -28,6 +28,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777B4" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
+&nbsp;
 <!-- <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
