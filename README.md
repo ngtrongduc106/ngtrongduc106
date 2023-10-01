@@ -22,15 +22,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Rabbitmq-FFFFFF?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="30" /></span>
 &nbsp;
-
-<!-- Basic Web -->
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-FFFFFF?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
 &nbsp;
-
 <!-- Javascript -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
 &nbsp;
