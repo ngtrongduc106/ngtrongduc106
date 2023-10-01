@@ -18,8 +18,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="30" /></span>
 &nbsp;
+
+<!-- Addvanced -->
 <span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="30" /></span>
 &nbsp;
+
 
 <!-- Basic Web -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" /></span>
@@ -54,6 +57,9 @@
 <!-- Java -->
 
 <!-- DevOps -->
+<span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
+&nbsp;
+
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
