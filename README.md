@@ -56,7 +56,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-FFFFFF?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Laragon-777777?logo=laragon&logoColor=0E83CD" alt="Laragon logo" title="Laragon" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Laragon-FFFFFF?logo=laragon&logoColor=0E83CD" alt="Laragon logo" title="Laragon" height="30" /></span>
 &nbsp;
 
 
