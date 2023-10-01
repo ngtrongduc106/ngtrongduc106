@@ -34,9 +34,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-FFFFFF?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bun-FFFFFF?logo=bun&logoColor=FFFFCC" alt="Bun logo" title="Bun" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Bun-FFFFFF?logo=bun&logoColor=000000" alt="Bun logo" title="Bun" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=000000" alt="Express.js logo" title="Express.js" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/NestJS-FFFFFF?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="30" /></span>
 &nbsp;
