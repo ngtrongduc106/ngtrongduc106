@@ -60,47 +60,64 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laragon-FFFFFF?logo=laragon&logoColor=0E83CD" alt="Laragon logo" title="Laragon" height="30" /></span>
 &nbsp;
-
-
-<!-- DevOps -->
-<span><img src="https://img.shields.io/badge/Jenkins-FFFFFF?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Composer-777777?logo=composer&logoColor=885630" alt="Composer logo" title="Composer" height="30" /></span>
 &nbsp;
 
-https://img.shields.io/badge/Prometheus-282C34?logo=prometheus&logoColor=E6522C
+<!-- DevOps -->
+<span><img src="https://img.shields.io/badge/MicrosoftAzure-777777?logo=microsoftazure&logoColor=0078D4" alt="MicrosoftAzure logo" title="MicrosoftAzure" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/AzureDevops-777777?logo=azuredevops&logoColor=0078D7" alt="AzureDevops logo" title="AzureDevops" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/AmazonAws-777777?logo=amazonaws&logoColor=232F3E" alt="AmazonAws logo" title="AmazonAws" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Railway-FFFFFF?logo=railway&logoColor=0B0D0E" alt="Railway logo" title="Railway" height="30" /></span>
+&nbsp;
 
-https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420
-
-https://img.shields.io/badge/Postman-777777?logo=postman&logoColor=FF6C37
-
-
-
-https://img.shields.io/badge/Grafana-777777?logo=grafana&logoColor=F46800
-
-https://img.shields.io/badge/Composer-777777?logo=composer&logoColor=885630
-
-https://img.shields.io/badge/Openvpn-777777?logo=openvpn&logoColor=EA7E20
-
-https://img.shields.io/badge/Linux-777777?logo=linux&logoColor=FCC624
-
-https://img.shields.io/badge/ApacheTomcat-777777?logo=apachetomcat&logoColor=F8DC75
-
-https://img.shields.io/badge/Dotenv-777777?logo=dotenv&logoColor=ECD53F
-
-https://img.shields.io/badge/Fluentd-777777?logo=fluentd&logoColor=0E83C8
-
-
-https://img.shields.io/badge/Docker-777777?logo=docker&logoColor=2496ED
-
-https://img.shields.io/badge/MicrosoftAzure-777777?logo=microsoftazure&logoColor=0078D4
-
-https://img.shields.io/badge/Python-777777?logo=python&logoColor=3776AB
-
-https://img.shields.io/badge/AzureDevops-777777?logo=azuredevops&logoColor=0078D7
-
-https://img.shields.io/badge/AmazonAws-777777?logo=amazonaws&logoColor=232F3E
+<!--  -->
+<span><img src="https://img.shields.io/badge/Jenkins-FFFFFF?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus&logoColor=E6522C" alt="Prometheus logo" title="Prometheus" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-777777?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Grafana-777777?logo=grafana&logoColor=F46800" alt="Grafana logo" title="Postman" height="30" /></span>
+&nbsp;
 
 
-https://img.shields.io/badge/Railway-FFFFFF?logo=railway&logoColor=0B0D0E
+<span><img src="https://img.shields.io/badge/Openvpn-777777?logo=openvpn&logoColor=EA7E20" alt="Openvpn logo" title="Openvpn" height="30" /></span>
+&nbsp;
+
+
+
+<span><img src="https://img.shields.io/badge/Linux-777777?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="30" /></span>
+&nbsp;
+
+
+<span><img src="https://img.shields.io/badge/ApacheTomcat-777777?logo=apachetomcat&logoColor=F8DC75" alt="ApacheTomcat logo" title="ApacheTomcat" height="30" /></span>
+&nbsp;
+
+<span><img src="https://img.shields.io/badge/Dotenv-777777?logo=dotenv&logoColor=ECD53F" alt="Dotenv logo" title="Dotenv" height="30" /></span>
+&nbsp;
+
+<span><img src="https://img.shields.io/badge/Fluentd-777777?logo=fluentd&logoColor=0E83C8" alt="Fluentd logo" title="Fluentd" height="30" /></span>
+&nbsp;
+
+
+<span><img src="https://img.shields.io/badge/Docker-777777?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="30" /></span>
+&nbsp;
+
+
+
+
+<span><img src="https://img.shields.io/badge/Python-777777?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="30" /></span>
+&nbsp;
+
+
+
+
+
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
