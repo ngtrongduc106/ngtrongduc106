@@ -18,14 +18,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-FFFFFF?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="30" /></span>
 &nbsp;
-
-<!-- Addvanced -->
-<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Redis-FFFFFF?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Rabbitmq-777777?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Rabbitmq-FFFFFF?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="30" /></span>
 &nbsp;
-
-
 
 <!-- Basic Web -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" /></span>
