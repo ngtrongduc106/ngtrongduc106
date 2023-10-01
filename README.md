@@ -44,9 +44,9 @@
 &nbsp;
 
 <!-- CSharp -->
-<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=512BD4" alt="CSharp logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=512BD4" alt="CSharp logo" title="C#" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/DotNet-282C34?logo=.net&logoColor=512BD4" alt="DotNet logo" title="DotNet" height="25" /></span>
+<span><img src="https://img.shields.io/badge/DotNet-282C34?logo=.net&logoColor=512BD4" alt="DotNet logo" title="DotNet" height="30" /></span>
 &nbsp;
 
 <br>
