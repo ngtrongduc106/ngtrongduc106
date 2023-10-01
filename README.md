@@ -8,13 +8,13 @@
 <!-- https://simpleicons.org/ -->
 
 <!-- IDE + Tools-->
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
+<span><img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
+<span><img src="https://img.shields.io/badge/git-FFFFFF?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Github-FFFFFF?logo=github&logoColor=181717" alt="github logo" title="github" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Gitlab-777777?logo=gitlab&logoColor=FC6D26" alt="gitlab logo" title="gitlab" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Gitlab-FFFFFF?logo=gitlab&logoColor=FC6D26" alt="gitlab logo" title="gitlab" height="30" /></span>
 &nbsp;
 
 
