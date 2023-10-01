@@ -55,16 +55,10 @@
   <a href="https://facebook.com/ngtrongduc106" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ngtrongduc106-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/ngtrongduc106Official" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="ngtrongduc106-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/ngtrongduc106" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="ngtrongduc106-linkedin" />
-  </a>
   <a href="https://instagram.com/ngtrongduc106" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ngtrongduc106-instagram" />
   </a>
-  <a href="mailto:ngtrongduc106.official@gmail.com" target="top">
+  <a href="mailto:ngtrongduc106@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ngtrongduc106-email" />
   </a>
 </div>
