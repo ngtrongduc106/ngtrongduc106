@@ -46,10 +46,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/DotNet-FFFFFF?logo=.net&logoColor=512BD4" alt="DotNet logo" title="DotNet" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Spring-777777?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/SpringBoot-777777?logo=springboot&logoColor=6DB33F" alt="SpringBoot logo" title="SpringBoot" height="30" /></span>
+&nbsp;
 
-<!-- Java -->
-https://img.shields.io/badge/Spring-777777?logo=spring&logoColor=6DB33F
-https://img.shields.io/badge/SpringBoot-777777?logo=springboot&logoColor=6DB33F
 <!-- DevOps -->
 <span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
 &nbsp;
