@@ -22,9 +22,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Dotenv-FFFFFF?logo=dotenv&logoColor=ECD53F" alt="Dotenv logo" title="Dotenv" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/vmware-FFFFFF?logo=VMware&logoColor=607078" alt="VMware logo" title="VMware" height="30" /></span>
+<span><img src="https://img.shields.io/badge/VMware-FFFFFF?logo=vmware&logoColor=607078" alt="VMware logo" title="VMware" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/nginx-FFFFFF?logo=NGINX&logoColor=009639" alt="NGINX logo" title="NGINX" height="30" /></span>
+<span><img src="https://img.shields.io/badge/NGINX-FFFFFF?logo=nginx&logoColor=009639" alt="NGINX logo" title="NGINX" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ApacheTomcat-FFFFFF?logo=apachetomcat&logoColor=F8DC75" alt="ApacheTomcat logo" title="ApacheTomcat" height="30" /></span>
 &nbsp;
