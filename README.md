@@ -46,9 +46,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/DotNet-FFFFFF?logo=.net&logoColor=512BD4" alt="DotNet logo" title="DotNet" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Spring-777777?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Spring-FFFFFF?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SpringBoot-777777?logo=springboot&logoColor=6DB33F" alt="SpringBoot logo" title="SpringBoot" height="30" /></span>
+<span><img src="https://img.shields.io/badge/SpringBoot-777FFFFFF777?logo=springboot&logoColor=6DB33F" alt="SpringBoot logo" title="SpringBoot" height="30" /></span>
 &nbsp;
 
 <!-- DevOps -->
