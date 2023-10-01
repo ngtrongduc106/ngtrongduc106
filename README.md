@@ -92,7 +92,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Centos-FFFFFF?logo=centos&logoColor=E95420" alt="Centos logo" title="Centos" height="30" /></span>
 &nbsp;
-<br/>
 <span><img src="https://img.shields.io/badge/Jenkins-FFFFFF?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Prometheus-FFFFFF?logo=prometheus&logoColor=E6522C" alt="Prometheus logo" title="Prometheus" height="30" /></span>
