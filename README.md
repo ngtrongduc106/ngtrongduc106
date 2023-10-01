@@ -10,7 +10,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Visual%20Studio-FFFFFF?logo=visualstudio&logoColor=5C2D91" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-FFFFFF?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Git-FFFFFF?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Github-FFFFFF?logo=github&logoColor=181717" alt="github logo" title="github" height="30" /></span>
 &nbsp;
@@ -22,7 +22,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Dotenv-FFFFFF?logo=dotenv&logoColor=ECD53F" alt="Dotenv logo" title="Dotenv" height="30" /></span>
 &nbsp;
-</br>
 <span><img src="https://img.shields.io/badge/MongoDB-FFFFFF?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-FFFFFF?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="30" /></span>
@@ -31,7 +30,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Rabbitmq-FFFFFF?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="30" /></span>
 &nbsp;
-</br>
 <span><img src="https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" /></span>
@@ -70,7 +68,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="30" /></span>
 &nbsp;
-<br/>
 <span><img src="https://img.shields.io/badge/MicrosoftAzure-FFFFFF?logo=microsoftazure&logoColor=0078D4" alt="MicrosoftAzure logo" title="MicrosoftAzure" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/AzureDevops-FFFFFF?logo=azuredevops&logoColor=0078D7" alt="AzureDevops logo" title="AzureDevops" height="30" /></span>
@@ -79,14 +76,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Railway-FFFFFF?logo=railway&logoColor=0B0D0E" alt="Railway logo" title="Railway" height="30" /></span>
 &nbsp;
-<br/>
 <span><img src="https://img.shields.io/badge/Linux-FFFFFF?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ubuntu-FFFFFF?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Centos-FFFFFF?logo=centos&logoColor=E95420" alt="Centos logo" title="Centos" height="30" /></span>
 &nbsp;
-<br/>
 <span><img src="https://img.shields.io/badge/ApacheTomcat-FFFFFF?logo=apachetomcat&logoColor=F8DC75" alt="ApacheTomcat logo" title="ApacheTomcat" height="30" /></span>
 &nbsp;
 <br/>
@@ -98,7 +93,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Grafana-FFFFFF?logo=grafana&logoColor=F46800" alt="Grafana logo" title="Grafana" height="30" /></span>
 &nbsp;
-<br/>
 <span><img src="https://img.shields.io/badge/Docker-FFFFFF?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="30" /></span>
 &nbsp;
 
