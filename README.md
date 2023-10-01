@@ -28,26 +28,23 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-FFFFFF?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
 &nbsp;
-<!-- Javascript -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-FFFFFF?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-FFFFFF?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bun-282C34?logo=bun&logoColor=FFFFCC" alt="Bun logo" title="Bun" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Bun-FFFFFF?logo=bun&logoColor=FFFFCC" alt="Bun logo" title="Bun" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="30" /></span>
+<span><img src="https://img.shields.io/badge/NestJS-FFFFFF?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="30" /></span>
+<span><img src="https://img.shields.io/badge/ESLint-FFFFFF?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="30" /></span>
 &nbsp;
-
-<!-- CSharp -->
-<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=512BD4" alt="CSharp logo" title="C#" height="30" /></span>
+<span><img src="https://img.shields.io/badge/CSharp-FFFFFF?logo=csharp&logoColor=512BD4" alt="CSharp logo" title="C#" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/DotNet-282C34?logo=.net&logoColor=512BD4" alt="DotNet logo" title="DotNet" height="30" /></span>
+<span><img src="https://img.shields.io/badge/DotNet-FFFFFF?logo=.net&logoColor=512BD4" alt="DotNet logo" title="DotNet" height="30" /></span>
 &nbsp;
 
 <!-- Java -->
