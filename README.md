@@ -54,7 +54,7 @@
 &nbsp;
 
 <!-- DevOps -->
-<span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Jenkins-FFFFFF?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
 &nbsp;
 
 https://img.shields.io/badge/Prometheus-282C34?logo=prometheus&logoColor=E6522C
