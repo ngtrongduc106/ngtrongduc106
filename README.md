@@ -52,6 +52,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/SpringBoot-FFFFFF?logo=springboot&logoColor=6DB33F" alt="SpringBoot logo" title="SpringBoot" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/PHP-FFFFFF?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="30" /></span>
+&nbsp;
+
+
 
 <!-- DevOps -->
 <span><img src="https://img.shields.io/badge/Jenkins-FFFFFF?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
@@ -91,7 +95,6 @@ https://img.shields.io/badge/AzureDevops-777777?logo=azuredevops&logoColor=0078D
 
 https://img.shields.io/badge/AmazonAws-777777?logo=amazonaws&logoColor=232F3E
 
-https://img.shields.io/badge/PHP-777777?logo=php&logoColor=777BB4
 
 https://img.shields.io/badge/Railway-FFFFFF?logo=railway&logoColor=0B0D0E
 <br>
