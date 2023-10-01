@@ -56,7 +56,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-FFFFFF?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="30" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Laragon-777777?logo=laragon&logoColor=0E83CD" alt="Laragon logo" title="Laragon" height="30" /></span>
+&nbsp;
 
 
 <!-- DevOps -->
@@ -85,7 +86,6 @@ https://img.shields.io/badge/Dotenv-777777?logo=dotenv&logoColor=ECD53F
 
 https://img.shields.io/badge/Fluentd-777777?logo=fluentd&logoColor=0E83C8
 
-https://img.shields.io/badge/Laragon-777777?logo=laragon&logoColor=0E83CD
 
 https://img.shields.io/badge/Docker-777777?logo=docker&logoColor=2496ED
 
