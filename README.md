@@ -8,6 +8,8 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Visual%20Studio-FFFFFF?logo=visualstudio&logoColor=5C2D91" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-FFFFFF?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Github-FFFFFF?logo=github&logoColor=181717" alt="github logo" title="github" height="30" /></span>
