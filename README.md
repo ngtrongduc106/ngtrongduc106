@@ -12,15 +12,21 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Git-FFFFFF?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Github-FFFFFF?logo=github&logoColor=181717" alt="github logo" title="github" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Github-FFFFFF?logo=github&logoColor=181717" alt="github logo" title="Github" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Gitlab-FFFFFF?logo=gitlab&logoColor=FC6D26" alt="gitlab logo" title="gitlab" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Gitlab-FFFFFF?logo=gitlab&logoColor=FC6D26" alt="gitlab logo" title="Gitlab" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-FFFFFF?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Openvpn-FFFFFF?logo=openvpn&logoColor=EA7E20" alt="Openvpn logo" title="Openvpn" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Dotenv-FFFFFF?logo=dotenv&logoColor=ECD53F" alt="Dotenv logo" title="Dotenv" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/vmware-FFFFFF?logo=VMware&logoColor=607078" alt="VMware logo" title="VMware" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/nginx-FFFFFF?logo=NGINX&logoColor=009639" alt="NGINX logo" title="NGINX" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ApacheTomcat-FFFFFF?logo=apachetomcat&logoColor=F8DC75" alt="ApacheTomcat logo" title="ApacheTomcat" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-FFFFFF?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
 &nbsp;
@@ -68,6 +74,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/flask-FFFFFF?logo=Flask&logoColor=000000" alt="Flask logo" title="Flask" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/django-FFFFFF?logo=Django&logoColor=092E20" alt="Django logo" title="Django" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftAzure-FFFFFF?logo=microsoftazure&logoColor=0078D4" alt="MicrosoftAzure logo" title="MicrosoftAzure" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/AzureDevops-FFFFFF?logo=azuredevops&logoColor=0078D7" alt="AzureDevops logo" title="AzureDevops" height="30" /></span>
@@ -82,8 +92,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Centos-FFFFFF?logo=centos&logoColor=E95420" alt="Centos logo" title="Centos" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ApacheTomcat-FFFFFF?logo=apachetomcat&logoColor=F8DC75" alt="ApacheTomcat logo" title="ApacheTomcat" height="30" /></span>
-&nbsp;
 <br/>
 <span><img src="https://img.shields.io/badge/Jenkins-FFFFFF?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
 &nbsp;
@@ -95,7 +103,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-FFFFFF?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="30" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/kubernetes-FFFFFF?logo=Kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="30" /></span>
+&nbsp;
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
