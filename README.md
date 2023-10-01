@@ -12,6 +12,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Github-FFFFFF?logo=github&logoColor=181717" alt="github logo" title="github" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Gitlab-777777?logo=gitlab&logoColor=FC6D26" alt="gitlab logo" title="gitlab" height="30" /></span>
+&nbsp;
+
+
 
 <!-- Database -->
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
@@ -22,6 +28,9 @@
 <!-- Addvanced -->
 <span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Rabbitmq-777777?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="30" /></span>
+&nbsp;
+
 
 
 <!-- Basic Web -->
@@ -55,12 +64,49 @@
 &nbsp;
 
 <!-- Java -->
-
+https://img.shields.io/badge/Spring-777777?logo=spring&logoColor=6DB33F
+https://img.shields.io/badge/SpringBoot-777777?logo=springboot&logoColor=6DB33F
 <!-- DevOps -->
 <span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
 &nbsp;
 
+https://img.shields.io/badge/Prometheus-282C34?logo=prometheus&logoColor=E6522C
 
+https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420
+
+https://img.shields.io/badge/Postman-777777?logo=postman&logoColor=FF6C37
+
+
+
+https://img.shields.io/badge/Grafana-777777?logo=grafana&logoColor=F46800
+
+https://img.shields.io/badge/Composer-777777?logo=composer&logoColor=885630
+
+https://img.shields.io/badge/Openvpn-777777?logo=openvpn&logoColor=EA7E20
+
+https://img.shields.io/badge/Linux-777777?logo=linux&logoColor=FCC624
+
+https://img.shields.io/badge/ApacheTomcat-777777?logo=apachetomcat&logoColor=F8DC75
+
+https://img.shields.io/badge/Dotenv-777777?logo=dotenv&logoColor=ECD53F
+
+https://img.shields.io/badge/Fluentd-777777?logo=fluentd&logoColor=0E83C8
+
+https://img.shields.io/badge/Laragon-777777?logo=laragon&logoColor=0E83CD
+
+https://img.shields.io/badge/Docker-777777?logo=docker&logoColor=2496ED
+
+https://img.shields.io/badge/MicrosoftAzure-777777?logo=microsoftazure&logoColor=0078D4
+
+https://img.shields.io/badge/Python-777777?logo=python&logoColor=3776AB
+
+https://img.shields.io/badge/AzureDevops-777777?logo=azuredevops&logoColor=0078D7
+
+https://img.shields.io/badge/AmazonAws-777777?logo=amazonaws&logoColor=232F3E
+
+https://img.shields.io/badge/PHP-777777?logo=php&logoColor=777BB4
+
+https://img.shields.io/badge/Railway-FFFFFF?logo=railway&logoColor=0B0D0E
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
