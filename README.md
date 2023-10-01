@@ -26,7 +26,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/NGINX-FFFFFF?logo=nginx&logoColor=009639" alt="NGINX logo" title="NGINX" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ApacheTomcat-FFFFFF?logo=apachetomcat&logoColor=F8DC75" alt="ApacheTomcat logo" title="ApacheTomcat" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Apache-FFFFFF?logo=apache&logoColor=D22128" alt="ApacheTomcat logo" title="ApacheTomcat" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-FFFFFF?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
 &nbsp;
