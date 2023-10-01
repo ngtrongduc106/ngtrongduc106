@@ -6,8 +6,6 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-
-<!-- IDE + Tools-->
 <span><img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-FFFFFF?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
@@ -16,13 +14,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Gitlab-FFFFFF?logo=gitlab&logoColor=FC6D26" alt="gitlab logo" title="gitlab" height="30" /></span>
 &nbsp;
-
-
-
-<!-- Database -->
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-FFFFFF?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="30" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-FFFFFF?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="30" /></span>
 &nbsp;
 
 <!-- Addvanced -->
