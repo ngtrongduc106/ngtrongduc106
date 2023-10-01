@@ -48,7 +48,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spring-FFFFFF?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SpringBoot-777FFFFFF777?logo=springboot&logoColor=6DB33F" alt="SpringBoot logo" title="SpringBoot" height="30" /></span>
+<span><img src="https://img.shields.io/badge/SpringBoot-FFFFFF?logo=springboot&logoColor=6DB33F" alt="SpringBoot logo" title="SpringBoot" height="30" /></span>
 &nbsp;
 
 <!-- DevOps -->
