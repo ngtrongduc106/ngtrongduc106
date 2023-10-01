@@ -54,6 +54,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-FFFFFF?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-FFFFFF?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="30" /></span>
+&nbsp;
 
 
 
