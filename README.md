@@ -85,6 +85,6 @@ Windows                  12 hrs 00 mins      ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,nestjs,mysql,mongodb,postgres,git,github,gitlab,windows,linux,kali,kubernetes,openstack,rabbitmq,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,ts,nestjs,mysql,mongodb,postgres,windows,linux,kali,kubernetes,openstack,docker&perline=6" />
 </a>
 </p>
