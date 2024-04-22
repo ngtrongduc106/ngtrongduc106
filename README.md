@@ -19,7 +19,8 @@
 import { Person } from 'VietNam';
 
 new Person({
-    name   : 'Nguyen Trong Duc',
+    name   : 'Duc',
+	fullname: 'Nguyen Trong Duc',
     title  : 'Devops',
     email  : 'ngtrongduc106@gmail.com',
     website: '',
@@ -29,7 +30,7 @@ new Person({
 
 ```cmd
 D:\ngtrongduc106> node index.js
-Hi, my name is Nguyen Trong Duc, I'm a Devops from Viet Nam.
+Hi, my name is Duc, I'm a Devops from VietNam.
 ```
 
 <div align="center">
