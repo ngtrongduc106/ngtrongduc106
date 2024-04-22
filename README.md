@@ -15,26 +15,26 @@
 </picture>
 
 ```js
-"use creativity";
+"use hardmode";
 import { Person } from 'indonesia';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
+    name   : 'Nguyen Trong Duc',
+    title  : 'Devops',
+    email  : 'ngtrongduc106@gmail.com',
+    website: '',
     married: !!!true,
 }).introduce();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\ngtrongduc106> node index.js
+Hi, my name is Ngtrongduc, I'm a Devops from Viet Nam.
 ```
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+<!-- [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars) -->
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -50,7 +50,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
 TypeScript               10 hrs 41 mins      █████████████████░░░░░░░░   69.29 % 
@@ -84,24 +84,24 @@ Windows                  15 hrs 26 mins      ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=3" />
+<img src="https://skillicons.dev/icons?i=js,ts,nestjs,mysql,mongodb,postgres,git,github,gitlab,windows,linux,kali,kubernetes,openstack,rabbitmq,docker&perline=6" />
 </a>
 </p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">🔥Streak Stats🔥</h3>
+<!-- <h3 align="center">🔥Streak Stats🔥</h3> -->
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+<!-- <p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p> -->
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">⭐My Favorite Repo⭐</h3>
+<!-- <h3 align="center">⭐My Favorite Repo⭐</h3> -->
 
-<div>
+<!-- <div>
   <p align="center">
 	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
@@ -121,7 +121,7 @@ Windows                  15 hrs 26 mins      ███████████�
     	<a href="https://github.com/Deri-Kurniawan/mini-framework">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
     	</a>
-</div>
+</div> -->
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -142,12 +142,9 @@ Windows                  15 hrs 26 mins      ███████████�
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
 
 <div align="center">
   
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
-
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
@@ -157,7 +154,7 @@ Windows                  15 hrs 26 mins      ███████████�
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+    Paddy ❤️
 </div>
 
 <!--x axis divider-->
