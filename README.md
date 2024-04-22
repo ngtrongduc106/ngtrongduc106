@@ -1,117 +1,164 @@
-<!-- ngtrongduc106 -->
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Visual%20Studio-FFFFFF?logo=visualstudio&logoColor=5C2D91" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Git-FFFFFF?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Github-FFFFFF?logo=github&logoColor=181717" alt="github logo" title="Github" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Gitlab-FFFFFF?logo=gitlab&logoColor=FC6D26" alt="gitlab logo" title="Gitlab" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Postman-FFFFFF?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Openvpn-FFFFFF?logo=openvpn&logoColor=EA7E20" alt="Openvpn logo" title="Openvpn" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Dotenv-FFFFFF?logo=dotenv&logoColor=ECD53F" alt="Dotenv logo" title="Dotenv" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VMware-FFFFFF?logo=vmware&logoColor=607078" alt="VMware logo" title="VMware" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/NGINX-FFFFFF?logo=nginx&logoColor=009639" alt="NGINX logo" title="NGINX" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Apache-FFFFFF?logo=apache&logoColor=D22128" alt="ApacheTomcat logo" title="ApacheTomcat" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-FFFFFF?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-FFFFFF?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redis-FFFFFF?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Rabbitmq-FFFFFF?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-FFFFFF?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-FFFFFF?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-FFFFFF?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bun-FFFFFF?logo=bun&logoColor=000000" alt="Bun logo" title="Bun" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=000000" alt="Express.js logo" title="Express.js" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/NestJS-FFFFFF?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-FFFFFF?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSharp-FFFFFF?logo=csharp&logoColor=512BD4" alt="CSharp logo" title="C#" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/DotNet-FFFFFF?logo=.net&logoColor=512BD4" alt="DotNet logo" title="DotNet" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Spring-FFFFFF?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/SpringBoot-FFFFFF?logo=springboot&logoColor=6DB33F" alt="SpringBoot logo" title="SpringBoot" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/PHP-FFFFFF?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Laravel-FFFFFF?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Laragon-FFFFFF?logo=laragon&logoColor=0E83CD" alt="Laragon logo" title="Laragon" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Composer-FFFFFF?logo=composer&logoColor=885630" alt="Composer logo" title="Composer" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/flask-FFFFFF?logo=Flask&logoColor=000000" alt="Flask logo" title="Flask" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/django-FFFFFF?logo=Django&logoColor=092E20" alt="Django logo" title="Django" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MicrosoftAzure-FFFFFF?logo=microsoftazure&logoColor=0078D4" alt="MicrosoftAzure logo" title="MicrosoftAzure" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AzureDevops-FFFFFF?logo=azuredevops&logoColor=0078D7" alt="AzureDevops logo" title="AzureDevops" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AmazonAws-FFFFFF?logo=amazonaws&logoColor=232F3E" alt="AmazonAws logo" title="AmazonAws" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Railway-FFFFFF?logo=railway&logoColor=0B0D0E" alt="Railway logo" title="Railway" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Linux-FFFFFF?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Ubuntu-FFFFFF?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Centos-FFFFFF?logo=centos&logoColor=E95420" alt="Centos logo" title="Centos" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Jenkins-FFFFFF?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Prometheus-FFFFFF?logo=prometheus&logoColor=E6522C" alt="Prometheus logo" title="Prometheus" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Fluentd-FFFFFF?logo=fluentd&logoColor=0E83C8" alt="Fluentd logo" title="Fluentd" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Grafana-FFFFFF?logo=grafana&logoColor=F46800" alt="Grafana logo" title="Grafana" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Docker-FFFFFF?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/kubernetes-FFFFFF?logo=Kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="30" /></span>
-&nbsp;
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
+<!--
+- !! Thank you for keeping this sign !!
+- Original Creation by Deri Kurniawan (Deri-Kurniawan)
+- Github Repository: https://github.com/Deri-Kurniawan/Deri-Kurniawan
+- ⭐ Don't forget to give a star ⭐
+-->
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
+
+```js
+"use creativity";
+import { Person } from 'indonesia';
+
+new Person({
+    name   : 'Deri Kurniawan',
+    title  : 'Full Stack Developer',
+    email  : 'deri.netuchi@gmail.com',
+    website: 'https://deri.my.id',
+    married: !!!true,
+}).introduce();
+```
+
+```cmd
+D:\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```
+
 <div align="center">
-  <a href="https://facebook.com/ngtrongduc106" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ngtrongduc106-facebook" />
-  </a>
-  <a href="https://instagram.com/ngtrongduc106" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ngtrongduc106-instagram" />
-  </a>
-  <a href="mailto:ngtrongduc106@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ngtrongduc106-email" />
-  </a>
+
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                572 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+🌆 Daytime                2386 commits        ███████████░░░░░░░░░░░░░░   43.39 % 
+🌃 Evening                1884 commits        █████████░░░░░░░░░░░░░░░░   34.26 % 
+🌙 Night                  657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               10 hrs 41 mins      █████████████████░░░░░░░░   69.29 % 
+JSON                     2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Prisma                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 26 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  15 hrs 26 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 21-04-2024 17:17:36 UTC
+<!--END_SECTION:waka-->
+  
 </div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+</a>
+</p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">🔥Streak Stats🔥</h3>
+
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">⭐My Favorite Repo⭐</h3>
+
+<div>
+  <p align="center">
+	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/derizer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+  
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Support me -->
+<h3 align="center">☕Support Me☕</h3>
+
+<div align="center">
+  
+[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
