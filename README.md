@@ -20,7 +20,7 @@ import { Person } from 'VietNam';
 
 new Person({
     name   : 'Duc',
-	fullname: 'Nguyen Trong Duc',
+    fullname: 'Nguyen Trong Duc',
     title  : 'Devops',
     email  : 'ngtrongduc106@gmail.com',
     website: '',
@@ -64,7 +64,7 @@ VS Code                  15 hrs 26 mins      ███████████�
 
 💻 Operating System: 
 Windows                  12 hrs 00 mins      █████████████████████████   100.00 %
-Linux                    12 hrs 00 mins      █████████████████████████   100.00 % 
+ Linux                    12 hrs 00 mins      █████████████████████████   100.00 % 
 ```
 
 
