@@ -56,7 +56,6 @@ Hi, my name is Duc, I'm a Devops from VietNam.
 💬 Programming Languages: 
 TypeScript               10 hrs 41 mins      █████████████████░░░░░░░░   69.29 % 
 JSON                     2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Prisma                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
@@ -64,11 +63,12 @@ Other                    25 mins             █░░░░░░░░░░�
 VS Code                  15 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 00 mins      █████████████████████████   100.00 %
+Linux                    12 hrs 00 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21-04-2024 17:17:36 UTC
+ <!-- Last Updated on 21-04-2024 17:17:36 UTC -->
 <!--END_SECTION:waka-->
   
 </div>
@@ -128,7 +128,7 @@ Windows                  15 hrs 26 mins      ███████████�
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
+<!-- <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
@@ -137,7 +137,7 @@ Windows                  15 hrs 26 mins      ███████████�
 [![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
 [![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
   
-</div>
+</div> -->
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
