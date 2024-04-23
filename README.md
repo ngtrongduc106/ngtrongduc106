@@ -8,15 +8,14 @@
 
 ```js
 "use hardmode";
-import { Person } from 'VietNam';
+import { Person } from "VietNam";
 
 new Person({
-    name   : 'Duc',
-    fullname: 'Nguyen Trong Duc',
-    title  : 'Devops',
-    email  : 'ngtrongduc106@gmail.com',
-    website: '',
-    married: !!!true,
+  name: "Duc",
+  fullname: "Nguyen Trong Duc",
+  title: "Devops",
+  email: "ngtrongduc106@gmail.com",
+  married: !!!true,
 }).introduce();
 ```
 
@@ -25,10 +24,6 @@ D:\ngtrongduc106> node index.js
 Hi, my name is Duc, I'm a Devops from VietNam.
 ```
 
-<div align="center">
-
-</div>
-
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div id="user-content-toc">
@@ -36,8 +31,11 @@ Hi, my name is Duc, I'm a Devops from VietNam.
     <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
   </ul>
 </div>
+
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,nestjs,mysql,mongodb,postgres,windows,linux,kali,kubernetes,openstack,docker&perline=6" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nestjs,mysql,mongodb,postgres,windows,linux,kali,kubernetes,openstack,docker&perline=6" />
+  </a>
 </p>
+
+<img src="/assets/images/horizontal-divider-gradient.gif">
