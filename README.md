@@ -20,7 +20,7 @@ new Person({
 ```
 
 ```cmd
-D:\ngtrongduc106> node index.js
+root@paddy:~# node index.js
 Hi, my name is Duc, I'm a Devops from VietNam.
 ```
 
