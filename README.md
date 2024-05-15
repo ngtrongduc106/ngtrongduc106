@@ -37,6 +37,7 @@ Hi, my name is Duc, I'm a Devops from VietNam.
   </a> -->
   <img src="/assets/icons/JavaScript.svg" width="50" height="50"/>
   <img src="/assets/icons/TypeScript.svg" width="50" height="50"/>
+  <img src="/assets/icons/Nest.js.svg" width="50" height="50"/>
 </p>
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
