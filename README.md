@@ -19,7 +19,7 @@ new Person({
 ```
 
 ```cmd
-root@paddy:~# node index.js
+root@grain:~# node index.js
 Hi, my name is Duc, I'm a Devops from VietNam.
 ```
 
@@ -27,14 +27,15 @@ Hi, my name is Duc, I'm a Devops from VietNam.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+    <summary><h3 style="display: inline-block">🧑‍💻 Used Tech 🧑‍💻</h3></summary>
   </ul>
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <!-- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nestjs,mysql,mongodb,postgres,windows,linux,kali,kubernetes,openstack,docker&perline=6" />
-  </a>
+  </a> -->
+  <img src="/assets/icons/TypeScript.svg" />
 </p>
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
