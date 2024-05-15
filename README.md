@@ -35,7 +35,7 @@ Hi, my name is Duc, I'm a Devops from VietNam.
   <!-- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nestjs,mysql,mongodb,postgres,windows,linux,kali,kubernetes,openstack,docker&perline=6" />
   </a> -->
-  <img src="/assets/icons/TypeScript.svg" />
+  <img src="/assets/icons/TypeScript.svg" width="50" height="50"/>
 </p>
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
