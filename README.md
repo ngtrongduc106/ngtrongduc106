@@ -1,7 +1,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<img src="/assets//images/developer.webp" align="right" width="350">
+<img src="/assets//images/developer.webp" align="right" width="350" height="100">
 </a>
 </picture>
 
