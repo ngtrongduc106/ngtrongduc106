@@ -29,7 +29,7 @@ Hi, my name is Duc, I'm a Devops from VietNam.
   <table align="center">
     <tr>
       <td valign="top">
-        <ul align="center">
+        <ul align="left">
           <summary>
             <h3 style="display: inline-block">🖥️ Programming Languages</h3>
           </summary>
@@ -40,13 +40,13 @@ Hi, my name is Duc, I'm a Devops from VietNam.
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50" height="50"/>
           </a>
         </ul>
-        <ul align="center">
+        <ul align="left">
           <summary><h3 style="display: inline-block">🗄️ Databases</h3></summary>
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
         </a>
         </ul>
-        <ul align="center">
+        <ul align="left">
           <summary><h3 style="display: inline-block">☁️ Containers</h3></summary>
            <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=docker"/>
@@ -56,19 +56,19 @@ Hi, my name is Duc, I'm a Devops from VietNam.
         </ul>
       </td>
       <td valign="top" style="padding-left: 40px;">
-        <ul align="center">
+        <ul align="right">
           <summary><h3 style="display: inline-block">🚀 Backend Frameworks</h3></summary>
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nestjs,fastapi,django" />
         </a>
         </ul>
-        <ul align="center">
+        <ul align="right">
           <summary><h3 style="display: inline-block">💻 Operating Systems</h3></summary>
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=linux,windows" />
         </a>
         </ul>
-        <ul align="center">
+        <ul align="right">
           <summary><h3 style="display: inline-block">☁️ Cloud & Virtualization</h3></summary>
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=openstack,aws,azure" />
